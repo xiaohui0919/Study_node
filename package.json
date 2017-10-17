@@ -1,0 +1,14 @@
+{
+  "name": "zhengxh",
+  "version": "1.0.0",
+  "description": "Node.js",
+  "main": "helloworld.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
